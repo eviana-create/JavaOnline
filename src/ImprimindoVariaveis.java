@@ -1,6 +1,7 @@
 public class ImprimindoVariaveis {
       public static void main(String[] args) {
           int idade = 39;
+          System.out.println("Gosto dos meus codigos bem comentados");
           double salarioDouble = 3000;
           float salarioFloat = 3000;
           byte idadeByte = 39;
